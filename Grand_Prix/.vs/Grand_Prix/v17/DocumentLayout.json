@@ -1,18 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\wicresoft\\Grand_Prix\\",
+  "WorkspaceRootPath": "D:\\1\\Grand_Prix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58C6DE6F-8BBD-469D-B3D5-9B646F9B7258}|Grand_Prix\\Grand_Prix.csproj|d:\\wicresoft\\grand_prix\\grand_prix\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C6DE6F-8BBD-469D-B3D5-9B646F9B7258}|Grand_Prix\\Grand_Prix.csproj|solutionrelative:grand_prix\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\wicresoft\\Grand_Prix\\Grand_Prix\\Drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58C6DE6F-8BBD-469D-B3D5-9B646F9B7258}|Grand_Prix\\Grand_Prix.csproj|d:\\wicresoft\\grand_prix\\grand_prix\\data\\driver.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{58C6DE6F-8BBD-469D-B3D5-9B646F9B7258}|Grand_Prix\\Grand_Prix.csproj|solutionrelative:grand_prix\\data\\driver.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\venues.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58C6DE6F-8BBD-469D-B3D5-9B646F9B7258}|Grand_Prix\\Grand_Prix.csproj|d:\\wicresoft\\grand_prix\\grand_prix\\data\\venues.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{58C6DE6F-8BBD-469D-B3D5-9B646F9B7258}|Grand_Prix\\Grand_Prix.csproj|solutionrelative:grand_prix\\data\\venues.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\driver.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,12 +23,12 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "venues.txt",
               "DocumentMoniker": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\venues.txt",
-              "RelativeDocumentMoniker": "Grand_Prix\\data\\venues.txt",
+              "RelativeDocumentMoniker": "..\\..\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\venues.txt",
               "ToolTip": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\venues.txt",
-              "RelativeToolTip": "Grand_Prix\\data\\venues.txt",
+              "RelativeToolTip": "..\\..\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\venues.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-19T01:45:51.587Z",
@@ -39,12 +36,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "driver.txt",
               "DocumentMoniker": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\driver.txt",
-              "RelativeDocumentMoniker": "Grand_Prix\\data\\driver.txt",
+              "RelativeDocumentMoniker": "..\\..\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\driver.txt",
               "ToolTip": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\driver.txt",
-              "RelativeToolTip": "Grand_Prix\\data\\driver.txt",
+              "RelativeToolTip": "..\\..\\wicresoft\\Grand_Prix\\Grand_Prix\\data\\driver.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-23T06:43:30.452Z"
@@ -54,10 +51,10 @@
               "DocumentIndex": 0,
               "Title": "Drivers.cs",
               "DocumentMoniker": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\Drivers.cs",
-              "RelativeDocumentMoniker": "Grand_Prix\\Drivers.cs",
+              "RelativeDocumentMoniker": "..\\..\\wicresoft\\Grand_Prix\\Grand_Prix\\Drivers.cs",
               "ToolTip": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\Drivers.cs",
-              "RelativeToolTip": "Grand_Prix\\Drivers.cs",
-              "ViewState": "AgIAABQBAAAAAAAAAAAswCQBAAANAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\wicresoft\\Grand_Prix\\Grand_Prix\\Drivers.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAswCQBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T05:03:35.172Z",
               "EditorCaption": ""

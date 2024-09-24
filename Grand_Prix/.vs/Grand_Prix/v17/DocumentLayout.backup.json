@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-19T01:45:51.587Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -48,8 +47,7 @@
               "RelativeToolTip": "Grand_Prix\\data\\driver.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-23T06:43:30.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:43:30.452Z"
             },
             {
               "$type": "Document",
@@ -59,7 +57,7 @@
               "RelativeDocumentMoniker": "Grand_Prix\\Drivers.cs",
               "ToolTip": "D:\\wicresoft\\Grand_Prix\\Grand_Prix\\Drivers.cs",
               "RelativeToolTip": "Grand_Prix\\Drivers.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAuwCABAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABQBAAAAAAAAAAAswCQBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T05:03:35.172Z",
               "EditorCaption": ""
